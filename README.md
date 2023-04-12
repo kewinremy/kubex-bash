@@ -14,7 +14,7 @@ Chanding context and namespace in kubectl is a pain. This script will help you t
 | `kn ls` | List namespaces |
 | `kn set <namespace_name>` | Switch namespace to <namespace_name> |
 
-## Installation
+## Installation from source
 
 ```shell
 # Clone the repository to your home directory
